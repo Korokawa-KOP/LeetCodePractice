@@ -1,0 +1,15 @@
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\bin\Debug\net6.0\Leetcode.Practice.Classic150-27.exe
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\bin\Debug\net6.0\Leetcode.Practice.Classic150-27.deps.json
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\bin\Debug\net6.0\Leetcode.Practice.Classic150-27.runtimeconfig.json
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\bin\Debug\net6.0\Leetcode.Practice.Classic150-27.dll
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\bin\Debug\net6.0\Leetcode.Practice.Classic150-27.pdb
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.csproj.AssemblyReference.cache
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.AssemblyInfoInputs.cache
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.AssemblyInfo.cs
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.csproj.CoreCompileInputs.cache
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.dll
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\refint\Leetcode.Practice.Classic150-27.dll
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.pdb
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\Leetcode.Practice.Classic150-27.genruntimeconfig.cache
+D:\Study\Leetcode\Leetcode.Practice.Solution\Leetcode.Practice.Classic150-27\obj\Debug\net6.0\ref\Leetcode.Practice.Classic150-27.dll
